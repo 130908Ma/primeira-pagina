@@ -10,13 +10,13 @@
       body{
       font-family: 'arial';
       background-color: #0e031c;
-      color:rgba(255, 0, 17, 0.886);
+      color:rgba(0, 255, 13, 0.886);
       margin:10px auto;
       text-align: center;
   }
   
   .menu{
-  color:aquamarine;
+  color:rgb(127, 255, 159);
   text-decoration: 0;
   font-size: 24px;
   margin: 5px;
@@ -39,7 +39,7 @@
       padding: 2% 0;
   }
   #a{
-      background-color:rgb(113, 113, 167);
+      background-color:rgb(53, 124, 50);
       margin:0;
       border-radius: 10px;
       display:flex;
